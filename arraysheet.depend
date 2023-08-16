@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1664097804 source:e:\c++\arraysheet\array.c
+
+1672505738 source:e:\c++\arraysheet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string2test.h"
+	"array.h"
+	"struct.h"
+	"Sodoko1.h"
+	"database.h"
+	"dos.h"
+	<time.h>
+	<Windows.h>
+	"DataStructure.h"
+	"pointertofunction.h"
+	"linkedlist.h"
+	"Enum.h"
+	"HakerRankProblems.h"
+
+1664102424 source:e:\c++\arraysheet\string.c
+
+1664098554 e:\c++\arraysheet\string2test.h
+
+1662994068 e:\c++\arraysheet\array.h
+
+1672504182 source:e:\c++\arraysheet\string2text.c
+
+1661958946 source:e:\c++\arraysheet\arraymergingfunction.c
+
+1662559136 source:e:\c++\arraysheet\optimization.c
+
+1662714446 source:e:\c++\arraysheet\pointertopointers&&arrayofpointers.c
+
+1662810850 source:e:\c++\arraysheet\practice.c
+
+1664190346 source:e:\c++\arraysheet\pointer2array&&2darray.c
+
+1663068790 source:e:\c++\arraysheet\sodoko.c
+
+1663621816 source:e:\c++\arraysheet\sodoko1.c
+	<Windows.h>
+
+1664023788 source:e:\c++\arraysheet\struct.c
+	"struct.h"
+	"string2test.h"
+
+1664109534 e:\c++\arraysheet\struct.h
+	<stdio.h>
+	<stdlib.h>
+
+1663621662 e:\c++\arraysheet\sodoko1.h
+	<Windows.h>
+
+1664364098 source:e:\c++\arraysheet\database.c
+	"database.h"
+
+1664363398 e:\c++\arraysheet\database.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<dos.h>
+
+1664791476 source:e:\c++\arraysheet\datastructure.c
+	"DataStructure.h"
+
+1664718290 e:\c++\arraysheet\datastructure.h
+
+1664452412 source:e:\c++\arraysheet\union.c
+
+1664971914 source:e:\c++\arraysheet\pointertofunction.c
+	"pointertofunction.h"
+
+1664959922 e:\c++\arraysheet\pointertofunction.h
+
+1665583226 source:e:\c++\arraysheet\hakerrankproblems.c
+
+1665406254 source:e:\c++\arraysheet\linkedlist.c
+	"linkedlist.h"
+
+1665326038 e:\c++\arraysheet\linkedlist.h
+
+1665413550 source:e:\c++\arraysheet\enum.c
+	"Enum.h"
+
+1665413550 e:\c++\arraysheet\enum.h
+
+1665580278 e:\c++\arraysheet\hakerrankproblems.h
+

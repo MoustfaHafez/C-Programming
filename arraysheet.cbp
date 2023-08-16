@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="arraysheet" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/arraysheet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/arraysheet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="DataStructure.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DataStructure.h" />
+		<Unit filename="Enum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Enum.h" />
+		<Unit filename="HakerRankProblems.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="HakerRankProblems.h" />
+		<Unit filename="Pointer2Array&amp;&amp;2DArray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PointerToPointers&amp;&amp;ArrayofPointers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sodoko1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sodoko1.h" />
+		<Unit filename="String.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="array.h" />
+		<Unit filename="arraymergingfunction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="database.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="database.h" />
+		<Unit filename="linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedlist.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="optimization.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointertofunction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointertofunction.h" />
+		<Unit filename="practice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="string2test.h" />
+		<Unit filename="string2text.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="struct.h" />
+		<Unit filename="union.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="union.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

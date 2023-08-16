@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="linkedlist.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="635" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="database.c" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="279" />
+		</Cursor>
+	</File>
+	<File name="Sodoko1.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1217" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="arraymergingfunction.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="288" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Enum.h" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="242" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Pointer2Array&amp;&amp;2DArray.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="HakerRankProblems.h" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="373" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="union.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="53" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="practice.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1754" topLine="59" />
+		</Cursor>
+	</File>
+	<File name="Struct.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="805" topLine="123" />
+		</Cursor>
+	</File>
+	<File name="array.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5835" topLine="68" />
+		</Cursor>
+	</File>
+	<File name="string2text.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="107" topLine="138" />
+		</Cursor>
+	</File>
+	<File name="struct.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="156" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="String.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="123" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="pointertofunction.h" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="pointertofunction.c" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1884" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="linkedlist.c" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4275" topLine="169" />
+		</Cursor>
+	</File>
+	<File name="Enum.c" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="119" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="string2test.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="871" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="PointerToPointers&amp;&amp;ArrayofPointers.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="646" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="DataStructure.h" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="117" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="union.c" open="1" top="1" tabpos="20" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2535" topLine="112" />
+		</Cursor>
+	</File>
+	<File name="DataStructure.c" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4038" topLine="140" />
+		</Cursor>
+	</File>
+	<File name="optimization.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5644" topLine="272" />
+		</Cursor>
+	</File>
+	<File name="database.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="Sodoko1.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4253" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="HakerRankProblems.c" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1210" topLine="249" />
+		</Cursor>
+	</File>
+	<File name="array.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="624" topLine="216" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
